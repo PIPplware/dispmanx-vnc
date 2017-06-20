@@ -1,0 +1,10 @@
+Package: dispmanx-vnc
+Version: 1.0.1-1
+Architecture: armhf
+Maintainer: Diogo Santos <diogomsantos@hotmail.com>
+Section: net
+Priority: optional
+Depends: libvncserver0, libconfig++9
+Homepage: http://pipplware.pplware.pt/
+Description: DispmanX VNC Server
+ https://github.com/patrikolausson/dispmanx_vnc/  
